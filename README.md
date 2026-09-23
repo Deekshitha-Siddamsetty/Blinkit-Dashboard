@@ -24,7 +24,6 @@ outlet locations, and other key business metrics.
 - Sales by Outlet Size
 
 ## Dashboard
-![Blinkit Dashboard](Blinkit_Dashboard.png)
 The interactive Excel dashboard was created to analyze sales performance
 and identify useful business insights.
 
